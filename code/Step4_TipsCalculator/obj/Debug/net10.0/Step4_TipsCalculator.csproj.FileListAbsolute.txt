@@ -1,0 +1,15 @@
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\bin\Debug\net10.0\Step4_TipsCalculator.exe
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\bin\Debug\net10.0\Step4_TipsCalculator.deps.json
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\bin\Debug\net10.0\Step4_TipsCalculator.runtimeconfig.json
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\bin\Debug\net10.0\Step4_TipsCalculator.dll
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\bin\Debug\net10.0\Step4_TipsCalculator.pdb
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\Step4_TipsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\Step4_TipsCalculator.AssemblyInfoInputs.cache
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\Step4_TipsCalculator.AssemblyInfo.cs
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\Step4_TipsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\Step4_TipsCalculator.sourcelink.json
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\Step4_TipsCalculator.dll
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\refint\Step4_TipsCalculator.dll
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\Step4_TipsCalculator.pdb
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\Step4_TipsCalculator.genruntimeconfig.cache
+C:\Users\Student_03\Documents\Lab17_Algorithms_Chaykalak\code\Step4_TipsCalculator\obj\Debug\net10.0\ref\Step4_TipsCalculator.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Step4_TipsCalculator/1.0.0": {
+        "runtime": {
+          "Step4_TipsCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Step4_TipsCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
