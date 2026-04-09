@@ -1,14 +1,14 @@
 ﻿// Начало
-Console.WriteLine("Выбор одежде по погоде");
-Console.Write("Введите текущую температуру(°C): ");
+Console.WriteLine("Выбор одежды по погоде");
+Console.WriteLine("Введите текущую температуру (°C): ");
 int temperature = Convert.ToInt32(Console.ReadLine());
 
 if (temperature >= 20)
 {
-    Console.WriteLine("Наденьте легкую одежду");
+    Console.WriteLine("Наденьте лёгкую одежду");
 }
 else
 {
-    Console.WriteLine("Наденьте теплую одежду");
+    Console.WriteLine("Наденьте тёплую одежду");
 }
-Console.WriteLine("Хорошего дня");
+Console.WriteLine("Хорошего дня!");

@@ -1,0 +1,15 @@
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.exe
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.deps.json
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.runtimeconfig.json
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.dll
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.pdb
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.AssemblyInfoInputs.cache
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.AssemblyInfo.cs
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.csproj.CoreCompileInputs.cache
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.sourcelink.json
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.dll
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\refint\Step5_GradeCheck.dll
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.pdb
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.genruntimeconfig.cache
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step5_GradeCheck\obj\Debug\net10.0\ref\Step5_GradeCheck.dll

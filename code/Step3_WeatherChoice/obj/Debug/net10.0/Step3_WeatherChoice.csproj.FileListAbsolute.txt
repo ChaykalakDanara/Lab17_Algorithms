@@ -1,0 +1,15 @@
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\bin\Debug\net10.0\Step3_WeatherChoice.exe
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\bin\Debug\net10.0\Step3_WeatherChoice.deps.json
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\bin\Debug\net10.0\Step3_WeatherChoice.runtimeconfig.json
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\bin\Debug\net10.0\Step3_WeatherChoice.dll
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\bin\Debug\net10.0\Step3_WeatherChoice.pdb
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\Step3_WeatherChoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\Step3_WeatherChoice.AssemblyInfoInputs.cache
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\Step3_WeatherChoice.AssemblyInfo.cs
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\Step3_WeatherChoice.csproj.CoreCompileInputs.cache
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\Step3_WeatherChoice.sourcelink.json
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\Step3_WeatherChoice.dll
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\refint\Step3_WeatherChoice.dll
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\Step3_WeatherChoice.pdb
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\Step3_WeatherChoice.genruntimeconfig.cache
+C:\Users\chayk\OneDrive\Документы\Lab17_Algorithms\code\Step3_WeatherChoice\obj\Debug\net10.0\ref\Step3_WeatherChoice.dll

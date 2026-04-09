@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Step4_TipsCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308597faeab304273412b4d09ee29958a50cc848")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fbe9249f192f668714f533e7a5f1f19836603d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Step4_TipsCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Step4_TipsCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
